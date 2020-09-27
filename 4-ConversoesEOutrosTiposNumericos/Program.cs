@@ -16,6 +16,19 @@ namespace _4_ConversoesEOutrosTiposNumericos
 
             int salarioEmInteiro = (int)salario;
 
+            Console.WriteLine("Salário = " + salario);
+            Console.WriteLine("Salário em inteiro = " + salarioEmInteiro);
+
+            // long é uma variável 64bits
+            long idade = 1300000000000000000;
+            // int é uma variável 32bits
+            int idadeInt = 1300000000;
+            // short é uma variável 16bits
+            short idadeShort = 13000;
+
+            // usamos o sufixo f para identificar floats
+            float altura = 1.80f;
+
             Console.WriteLine("Fim do programa. Tecle Enter para continuar...");
             Console.ReadLine();
         }
