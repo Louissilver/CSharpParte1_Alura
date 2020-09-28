@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12-CalculaInvestimentoLong
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13-ForEncadeado", "P13-ForEncadeado\P13-ForEncadeado.csproj", "{B4171162-04F7-4CF7-9BDD-7AA0CFDEC0D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D1-DesafioMultiploDeTres", "D1-DesafioMultiploDeTres\D1-DesafioMultiploDeTres.csproj", "{76EA3023-67AF-4BA9-86D7-315DC0D9DF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2-Fatorial", "D2-Fatorial\D2-Fatorial.csproj", "{ADED3C9A-205C-415E-8DB3-589CA93310DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{B4171162-04F7-4CF7-9BDD-7AA0CFDEC0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4171162-04F7-4CF7-9BDD-7AA0CFDEC0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4171162-04F7-4CF7-9BDD-7AA0CFDEC0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EA3023-67AF-4BA9-86D7-315DC0D9DF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EA3023-67AF-4BA9-86D7-315DC0D9DF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EA3023-67AF-4BA9-86D7-315DC0D9DF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EA3023-67AF-4BA9-86D7-315DC0D9DF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADED3C9A-205C-415E-8DB3-589CA93310DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADED3C9A-205C-415E-8DB3-589CA93310DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADED3C9A-205C-415E-8DB3-589CA93310DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADED3C9A-205C-415E-8DB3-589CA93310DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
