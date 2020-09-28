@@ -10,7 +10,7 @@ namespace _9_ComandoSwitch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 8 - Escopo");
+            Console.WriteLine("Executando projeto 9 - Comando Switch Case");
             int mes = 10;
 
             switch (mes)
